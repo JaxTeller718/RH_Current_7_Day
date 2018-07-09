@@ -1330,8 +1330,8 @@
 		<reward type="Quest" id="quest_MedicClass06"/>
 	</quest>
 	<quest id="quest_MedicClass06" group_name_key="quest_MedicClass" name_key="quest_MedicClass06" subtitle_key="quest_MedicClass06_subtitle" description_key="quest_MedicClass06_description" icon="ui_game_symbol_medical" category_key="quest">
-		<objective type="Craft" id="mortarAndPestle" value="30"/>
-		<objective type="BlockPlace" id="mortarAndPestle" value="5"/>
+		<objective type="Craft" id="mortarAndPestle" value="1"/>
+		<objective type="BlockPlace" id="mortarAndPestle" value="1"/>
 		<reward type="SkillPoints" value="2"/>
 		<reward type="Exp" value="500"/>
 		<reward type="Quest" id="quest_MedicClass07"/>
@@ -1367,7 +1367,7 @@
 	<quest id="quest_MedicClass10" group_name_key="quest_MedicClass" name_key="quest_MedicClass10" subtitle_key="quest_MedicClass10_subtitle" description_key="quest_MedicClass10_description" icon="ui_game_symbol_medical" category_key="quest">
 		<objective type="FetchKeep" id="blueberries" value="25"/>
 		<objective type="FetchKeep" id="mushrooms" value="15"/>
-		<objective type="FetchKeep" id="chrysanthemumPlant" value="15"/>
+		<objective type="FetchKeep" id="resistanceMixture" value="5"/>
 		<objective type="FetchKeep" id="potassiumNitratePowder" value="15"/>
 		<objective type="FetchKeep" id="bottledWater" value="5"/>
 		<objective type="Craft" id="herbalAntibiotics" value="5"/>
@@ -1402,6 +1402,7 @@
 		<objective type="FetchKeep" id="moldyBread" value="5"/>
 		<objective type="FetchKeep" id="potassiumNitratePowder" value="5"/>
 		<objective type="FetchKeep" id="bottledRiverWater" value="5"/>
+		<objective type="FetchKeep" id="resistanceMixture" value="5"/>
 		<objective type="Craft" id="antibiotics" value="5"/>
 		<reward type="SkillPoints" value="3"/>
 		<reward type="Exp" value="500"/>
@@ -1429,6 +1430,7 @@
 		<objective type="FetchKeep" id="milk" value="5"/>
 		<objective type="FetchKeep" id="bloodBag" value="10"/>
 		<objective type="FetchKeep" id="zombieBlood" value="25"/>
+		<objective type="FetchKeep" id="resistanceMixture" value="5"/>
 		<objective type="Craft" id="antiRad" value="5"/>
 		<reward type="SkillPoints" value="10"/>
 		<reward type="Exp" value="1500"/>
@@ -2367,8 +2369,7 @@
 		<objective type="Craft" id="farmerKitLocked" value="1"/>
 		<objective type="Craft" id="medicalKitLocked" value="1"/>
 		<objective type="Craft" id="cookingKitLocked" value="1"/>
-		<reward type="Item" id="Twine" value="200"/>
-		<reward type="Item" id="casinoCoin" value="3000"/>
-		<reward type="ShowTip" value="ultimateSurvivorComplete" stage="aftercomplete"/>
+		<reward type="Skill" id="UltimateSurvivor" value="1"/>
+		<reward type="Skill" id="The Ultimate Survivor Skills" value="1"/>
 	</quest>
 </quests>
