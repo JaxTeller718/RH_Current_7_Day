@@ -459,14 +459,13 @@
 		<entity name="zombieNurse"/>
 		<entity name="zombieSteveCrawler"/>
 		<entity name="zombieFatHawaiian"/>
-		<entity name="zombieFemaleFat"/>
+		<entity name="zombieFemaleFat" prob="0.2"/>
 		<entity name="zombieBiker"/>
 		<entity name="zombieFarmer"/>
 		<entity name="zombieStripper"/>
 		<entity name="zombieUtilityWorker"/>
 		<entity name="zombieNurse"/>
 		<entity name="zombieFatHawaiian"/>
-		<entity name="zombieFemaleFat"/>
 		<entity name="sanZombieCannibalFemale" />
 		<entity name="sanZombieEvilGranny" />
 		<entity name="sanZombieVagrant" />
@@ -505,7 +504,7 @@
 		<entity name="zombieNurse"/>
 		<entity name="zombieSteveCrawler"/>
 		<entity name="zombieFatHawaiian"/>
-		<entity name="zombieFemaleFat"/>
+		<entity name="zombieFemaleFat" prob="0.2"/>
 	</entitygroup>
 	<entitygroup name="ZombiesScoutsStage3">
 		<entity name="zombieBiker"/>
@@ -514,7 +513,7 @@
 		<entity name="zombieUtilityWorker"/>
 		<entity name="zombieNurse"/>
 		<entity name="zombieFatHawaiian"/>
-		<entity name="zombieFemaleFat"/>
+		<entity name="zombieFemaleFat" prob="0.2"/>
 		<entity name="sanZombieCannibalFemale" />
 		<entity name="sanZombieEvilGranny" />
 		<entity name="sanZombieVagrant" />
@@ -538,7 +537,7 @@
 		<entity name="zombieUtilityWorker"/>
 		<entity name="zombieNurse"/>
 		<entity name="zombieFatHawaiian"/>
-		<entity name="zombieFemaleFat"/>
+		<entity name="zombieFemaleFat" prob="0.2"/>
 		<entity name="zombieWight"/>
 		<entity name="sanZombieCannibalFemale" />
 		<entity name="sanZombieEvilGranny" />
@@ -564,7 +563,7 @@
 		<entity name="zombieWightFeral"/>
 		<entity name="zombieMaleHazmat"/>
 		<entity name="zombieFatHawaiian"/>
-		<entity name="zombieFemaleFat"/>
+		<entity name="zombieFemaleFat" prob="0.2"/>
 		<entity name="valZombieRaveReaper"/>
 		<entity name="sanZombieCpl"/>
 		<entity name="sanZombieBikerChick"/>
@@ -603,7 +602,7 @@
 		<entity name="zombieWightFeral"/>
 		<entity name="zombieMaleHazmat"/>
 		<entity name="zombieFatHawaiian"/>
-		<entity name="zombieFemaleFat"/>
+		<entity name="zombieFemaleFat" prob="0.2"/>
 		<entity name="zombieFootballPlayerFeral"/>
 		<entity name="valZombieRaveReaper"/>
 		<entity name="sanZombieCpl"/>
@@ -649,7 +648,7 @@
 		<entity name="zombieYoFeral"/>
 		<entity name="zombieMaleHazmat"/>
 		<entity name="zombieFatHawaiian"/>
-		<entity name="zombieFemaleFat"/>
+		<entity name="zombieFemaleFat" prob="0.2"/>
 		<entity name="valZombieRaveReaper"/>
 		<entity name="sanZombieCpl"/>
 		<entity name="sanZombieBikerChick"/>
@@ -691,7 +690,7 @@
 		<entity name="zombieStripperFeral"/>
 		<entity name="zombieMaleHazmat"/>
 		<entity name="zombieFatHawaiian"/>
-		<entity name="zombieFemaleFat"/>
+		<entity name="zombieFemaleFat" prob="0.2"/>
 		<entity name="valZombieRaveReaper"/>
 		<entity name="sanZombieCpl"/>
 		<entity name="sanZombieBikerChick"/>
@@ -732,7 +731,7 @@
 		<entity name="zombieMaleHazmat"/>
 		<entity name="zombieStripperFeral"/>
 		<entity name="zombieFatHawaiian"/>
-		<entity name="zombieFemaleFat"/>
+		<entity name="zombieFemaleFat" prob="0.2"/>
 		<entity name="valZombieRaveReaper"/>
 		<entity name="sanZombieCpl"/>
 		<entity name="sanZombieBikerChick"/>
@@ -775,7 +774,7 @@
 		<entity name="zombieElectricUtilityWorker" prob="0.15"/>
 		<entity name="animalZombieDog" prob="0.05"/>
 		<entity name="zombieFatHawaiian" prob="0.3"/>
-		<entity name="zombieFemaleFat"/>
+		<entity name="zombieFemaleFat" prob="0.2"/>
 		<entity name="sanZombieCannibalFemale"  prob="0.3"/>
 		<entity name="sanZombieEvilGranny"  prob="0.3"/>
 		<entity name="sanZombieVagrant"  prob="0.3"/>
@@ -917,7 +916,7 @@
 		<entity name="zombieWightFeral"/>
 		<entity name="zombieMaleHazmat" prob="0.1"/>
 		<entity name="zombieFatHawaiian"/>
-		<entity name="zombieFemaleFat"/>
+		<entity name="zombieFemaleFat" prob="0.2"/>
 		<entity name="animalZombieBear" prob="0.1"/>
 		<entity name="sanZombieCannibalFemale"  prob="0.3"/>
 		<entity name="sanZombieEvilGranny"  prob="0.3"/>
@@ -968,7 +967,7 @@
 		<entity name="zombieWightFeral"/>
 		<entity name="zombieMaleHazmat" prob="0.1"/>
 		<entity name="zombieFatHawaiian"/>
-		<entity name="zombieFemaleFat"/>
+		<entity name="zombieFemaleFat" prob="0.2"/>
 		<entity name="sanZombieBanditRaider" prob="0.03"/>
 		<entity name="badZombieBolivar" prob="0.03"/>
 		<entity name="valZombieBrute" prob="0.03"/>
@@ -996,7 +995,7 @@
 		<entity name="zombieWightFeral"/>
 		<entity name="zombieMaleHazmat" prob="0.1"/>
 		<entity name="zombieFatHawaiian"/>
-		<entity name="zombieFemaleFat"/>
+		<entity name="zombieFemaleFat" prob="0.2"/>
 		<entity name="animalZombieBear" prob="0.1"/>
 		<entity name="sanZombieCannibalFemale"  prob="0.3"/>
 		<entity name="sanZombieEvilGranny"  prob="0.3"/>
@@ -1042,7 +1041,7 @@
 		<entity name="animalZombieBear" prob="0.1"/>
 		<entity name="zombieWightFeral" prob="0.1"/>
 		<entity name="zombieFatHawaiian"/>
-		<entity name="zombieFemaleFat"/>
+		<entity name="zombieFemaleFat" prob="0.2"/>
 		<entity name="sanZombieCannibalFemale"  prob="0.3"/>
 		<entity name="sanZombieEvilGranny"  prob="0.3"/>
 		<entity name="sanZombieVagrant"  prob="0.3"/>
@@ -1086,7 +1085,7 @@
 		<entity name="zombieFatCop" prob="0.15"/>
 		<entity name="zombieBurnt" prob="0.07"/>
 		<entity name="zombieWightFeral" prob="0.1"/>
-		<entity name="zombieFemaleFat"/>
+		<entity name="zombieFemaleFat" prob="0.2"/>
 		<entity name="zombieFatHawaiian"/>
 		<entity name="sanZombieCannibalFemale"  prob="0.3"/>
 		<entity name="sanZombieEvilGranny"  prob="0.3"/>
@@ -1661,7 +1660,7 @@
 		<entity name="zombieBusinessMan"/>
 		<entity name="zombieMarlene"/>
 		<entity name="zombieSteveCrawler"/>
-		<entity name="zombieFemaleFat"/>
+		<entity name="zombieFemaleFat" prob="0.2"/>
 	</entitygroup>
 	<entitygroup name="sleeperHordeStageGS2">
 		<entity name="zombieJoe"/>
@@ -1670,7 +1669,7 @@
 		<entity name="zombieBusinessMan"/>
 		<entity name="zombieDarlene"/>
 		<entity name="zombieMarlene"/>
-		<entity name="zombieFemaleFat"/>
+		<entity name="zombieFemaleFat" prob="0.2"/>
 		<entity name="zombieArlene"/>
 		<entity name="zombieNurse"/>
 		<entity name="zombieCheerleader"/>
@@ -1699,11 +1698,11 @@
 		<entity name="zombieSkateboarder"/>
 		<entity name="zombieArlene"/>
 		<entity name="zombieBusinessMan"/>
-		<entity name="zombieFemaleFat"/>
+		<entity name="zombieFemaleFat" prob="0.2"/>
 		<entity name="zombieDarlene"/>
 	</entitygroup>
 	<entitygroup name="sleeperHordeStageGS11">
-		<entity name="zombieFemaleFat"/>
+		<entity name="zombieFemaleFat" prob="0.2"/>
 		<entity name="zombieCheerleader"/>
 		<entity name="zombieDarlene"/>
 		<entity name="zombieSteve"/>
@@ -1732,7 +1731,7 @@
 		<entity name="zombieYo"/>
 		<entity name="zombieSteveCrawler"/>
 		<entity name="zombieMarlene"/>
-		<entity name="zombieFemaleFat"/>
+		<entity name="zombieFemaleFat" prob="0.2"/>
 		<entity name="zombieSkateboarder"/>
 		<entity name="zombieJoe"/>
 		<entity name="zombieSteve"/>
@@ -1746,7 +1745,7 @@
 		<entity name="zombieJoe"/>
 		<entity name="zombieDarlene"/>
 		<entity name="zombieSteve"/>
-		<entity name="zombieFemaleFat"/>
+		<entity name="zombieFemaleFat" prob="0.2"/>
 		<entity name="zombieBusinessMan"/>
 		<entity name="zombieCheerleader"/>
 		<entity name="zombieArlene"/>
@@ -1757,7 +1756,7 @@
 	<entitygroup name="sleeperHordeStageGS27">
 		<entity name="zombieBoe"/>
 		<entity name="zombieSteve"/>
-		<entity name="zombieFemaleFat"/>
+		<entity name="zombieFemaleFat" prob="0.2"/>
 		<entity name="zombieDarlene"/>
 		<entity name="zombieSteveCrawler"/>
 		<entity name="zombieSkateboarder"/>
@@ -1773,7 +1772,7 @@
 		<entity name="zombieMoe"/>
 		<entity name="zombieCheerleader"/>
 		<entity name="zombieDarlene"/>
-		<entity name="zombieFemaleFat"/>
+		<entity name="zombieFemaleFat" prob="0.2"/>
 		<entity name="zombieBusinessMan"/>
 		<entity name="zombieYo"/>
 		<entity name="zombieNurse"/>
@@ -1784,7 +1783,7 @@
 		<entity name="zombieMarlene"/>
 		<entity name="zombieSkateboarder"/>
 		<entity name="zombieCheerleader"/>
-		<entity name="zombieFemaleFat"/>
+		<entity name="zombieFemaleFat" prob="0.2"/>
 		<entity name="zombieSteveCrawler"/>
 		<entity name="zombieBusinessMan"/>
 		<entity name="zombieSteve"/>
@@ -1809,7 +1808,7 @@
 	<entitygroup name="sleeperHordeStageGS46">
 		<entity name="zombieBusinessMan"/>
 		<entity name="zombieMoe"/>
-		<entity name="zombieFemaleFat"/>
+		<entity name="zombieFemaleFat" prob="0.2"/>
 		<entity name="zombieSteveCrawler"/>
 		<entity name="zombieYo"/>
 		<entity name="zombieCheerleader"/>
@@ -1823,7 +1822,7 @@
 		<entity name="zombieSteve"/>
 		<entity name="zombieYo"/>
 		<entity name="zombieBoe"/>
-		<entity name="zombieFemaleFat"/>
+		<entity name="zombieFemaleFat" prob="0.2"/>
 		<entity name="zombieArlene"/>
 		<entity name="zombieSkateboarder"/>
 		<entity name="zombieDarlene"/>
@@ -1837,7 +1836,7 @@
 		<entity name="zombieSteveCrawler"/>
 		<entity name="zombieBoe"/>
 		<entity name="zombieYo"/>
-		<entity name="zombieFemaleFat"/>
+		<entity name="zombieFemaleFat" prob="0.2"/>
 		<entity name="zombieMarlene"/>
 		<entity name="zombieCheerleader"/>
 		<entity name="zombieDarlene"/>
@@ -1850,7 +1849,7 @@
 		<entity name="zombieMoe"/>
 		<entity name="zombieNurse"/>
 		<entity name="zombieDarlene"/>
-		<entity name="zombieFemaleFat"/>
+		<entity name="zombieFemaleFat" prob="0.2"/>
 		<entity name="zombieMarlene"/>
 		<entity name="zombieSkateboarder"/>
 		<entity name="zombieCheerleader"/>
@@ -1859,7 +1858,7 @@
 		<entity name="zombieBoe"/>
 	</entitygroup>
 	<entitygroup name="sleeperHordeStageGS70">
-		<entity name="zombieFemaleFat"/>
+		<entity name="zombieFemaleFat" prob="0.2"/>
 		<entity name="zombieMoe"/>
 		<entity name="zombieYo"/>
 		<entity name="zombieArlene"/>
@@ -1881,7 +1880,7 @@
 		<entity name="zombieNurse"/>
 		<entity name="zombieArlene"/>
 		<entity name="zombieMarlene"/>
-		<entity name="zombieFemaleFat"/>
+		<entity name="zombieFemaleFat" prob="0.2"/>
 		<entity name="zombieSkateboarder"/>
 	</entitygroup>
 	<entitygroup name="sleeperHordeStageGS82">
@@ -1893,7 +1892,7 @@
 		<entity name="zombieArlene"/>
 		<entity name="zombieCheerleader"/>
 		<entity name="zombieMarlene"/>
-		<entity name="zombieFemaleFat"/>
+		<entity name="zombieFemaleFat" prob="0.2"/>
 		<entity name="zombieSteveCrawler"/>
 		<entity name="zombieBusinessMan"/>
 	</entitygroup>
@@ -1903,7 +1902,7 @@
 		<entity name="zombieArlene"/>
 		<entity name="zombieSkateboarder"/>
 		<entity name="zombieNurse"/>
-		<entity name="zombieFemaleFat"/>
+		<entity name="zombieFemaleFat" prob="0.2"/>
 		<entity name="zombieMoe"/>
 		<entity name="zombieYo"/>
 		<entity name="zombieDarlene"/>
